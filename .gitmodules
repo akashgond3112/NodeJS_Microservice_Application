@@ -1,0 +1,12 @@
+[submodule "customer"]
+	path = customer
+	url = /customer
+[submodule "gateway"]
+	path = gateway
+	url = /gateway
+[submodule "products"]
+	path = products
+	url = /products
+[submodule "shopping"]
+	path = shopping
+	url = /shopping
