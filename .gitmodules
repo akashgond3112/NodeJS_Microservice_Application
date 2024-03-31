@@ -1,12 +1,12 @@
 [submodule "customer"]
 	path = customer
-	url = /customer
+	url = https://github.com/akashgond3112/customer.git
 [submodule "gateway"]
 	path = gateway
-	url = /gateway
+	url = https://github.com/akashgond3112/gateway.git
 [submodule "products"]
 	path = products
-	url = /products
+	url = https://github.com/akashgond3112/products.git
 [submodule "shopping"]
 	path = shopping
-	url = /shopping
+	url = https://github.com/akashgond3112/shopping.git
